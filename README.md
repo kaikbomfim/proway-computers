@@ -6,5 +6,7 @@ Esse projeto foi gerado com a versão 17.3.0 do Angular CLI
 
 Para conferir o deploy da aplicação, acesse o link abaixo:
 
+https://kaikbomfim.github.io/proway-computers/
+
 
 
